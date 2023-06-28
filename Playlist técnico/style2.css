@@ -1,0 +1,210 @@
+#logo_2{
+    margin-top: -30px;
+    height: 100px;
+    justify-content: left;
+    align-items: left;
+
+}
+
+body{
+    background-color: blueviolet;
+}
+
+#busca{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  form {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; 
+  }
+  
+  #txtBusca {
+    margin-left: 10px;
+    width: 100%; 
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+  }
+
+.Nmusicas{
+    font-family: Verdana;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    
+    background-color: rgb(85, 19, 146);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.Nmusicas2{
+  font-family: Verdana;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  
+  background-color:rgb(23, 3, 43);
+  padding-bottom: 5px;
+  padding-top: 5px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+}
+.item-icon{
+    
+    padding-right: 5px;
+ 
+}
+.item-icon i{
+    padding-right: 10px;
+}
+
+.nomesM{
+    color: whitesmoke;
+    font-size: arial;
+    background-color: rgb(85, 19, 146);
+    padding-top: 5px;
+    margin-top: 5px;
+    
+}
+.nomesM2{
+  color: whitesmoke;
+  font-size: arial;
+  background-color: rgb(23, 3, 43);
+  padding-top: 5px;
+  margin-top: 5px;
+  
+}
+.item-list {
+    list-style-type: none;
+    padding-bottom: 10px;
+  }
+  
+  .item-list li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+
+
+
+  }
+  .item-title {
+    margin: 0;
+    line-height: 1.2; 
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .item-text {
+    margin: 0;
+    line-height: 1.2; 
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .item-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .item-content {
+    flex-grow: 1;
+  }
+  
+  .item-title {
+    margin: 0;
+  }
+  
+  .item-text {
+    margin: 0;
+  }
+  
+
+#img1{
+    height: 50px;
+    width: 55px;
+   
+}
+#img2{
+    height: 50px;
+    width: 55px;
+
+}
+#img3{
+    height: 50px;
+    width: 55px;
+   
+}
+#img4{
+    height: 50px;
+    width: 55px;
+     
+}
+#img5{
+    height: 50px;
+    width: 55px;
+   
+}
+#img6{
+    height: 50px;
+    width: 55px;
+   
+}
+#img7{
+    height: 50px;
+    width: 55px;
+  
+}
+#img8{
+    height: 50px;
+    width: 55px;
+  
+}
+.footer-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .footer-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:  rgb(85, 19, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  .footer-item i {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: rgb(85, 19, 146);
+  }
+  

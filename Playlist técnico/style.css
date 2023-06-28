@@ -1,0 +1,125 @@
+.sessão_1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+    
+}
+.site-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  form {
+    display: flex;
+    align-items: center;
+  }
+  
+  #txtBusca {
+    margin-left: 10px;
+  }
+
+#busca{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    vertical-align: top;
+    width: 100%;
+    
+
+}
+#logo{
+    height: 135px;
+    margin-top: 70px;
+}
+
+.marca{
+    font-size: arial;
+    margin-top: 50px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.entrar{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.menu{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    margin-top: 50px;
+    flex-direction: column;
+    display:flex;
+}
+
+
+
+body{
+    background-color: blueviolet;
+}
+
+button{
+    font-size: 20px;
+    font-size: arial;
+    color: white;
+    background-color: rgb(91, 27, 150);
+    border-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.login{
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 30px;
+    border-radius: 50px;
+    width: 20%;
+    margin-top: 50px;
+    text-align: center;
+    border: 1px solid blueviolet;
+    border-color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.cadastro{
+    color: whitesmoke;
+    font-family: Verdana;
+    font-size: 30px;
+    border-radius: 50px;
+    width: 20%;
+    margin-top: 40px;
+    text-align: center;
+    
+    margin-left: auto;
+    margin-right: auto;
+}
